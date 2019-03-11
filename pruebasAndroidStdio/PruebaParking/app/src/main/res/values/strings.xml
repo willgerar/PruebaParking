@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">PruebaParking</string>
+    <string name="mTxtView1">Parkings URV</string>
+
+    <string name="mTextLista">ha Seleccinado el ...</string>
+    <string name="txtMostraP1"></string>
+    <string name="btnVerDetall1">Entrar Parking</string>
+    <string name="btnVerMap1">Ver Localización</string>
+    <string name="btnVerSlots1">Buscar Slots</string>
+
+    <string name="mTextNameFloor1">Plantas Parking</string>
+
+    <string name="mNameFloor1">Name</string>
+    <string name="mNameFloorSlots1"></string>
+
+
+    <string name="mTxtTitleSlot1">Detalles Planta</string>
+
+    <string name="mTxtNameSlot1">Slot</string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>
